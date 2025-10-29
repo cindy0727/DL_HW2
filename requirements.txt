@@ -5,10 +5,4 @@ librosa==0.10.2.post1
 soundfile==0.12.1
 audioread==3.0.1
 torch==2.3.1
-
-# --- retrieval model wrapper ---
-# 若你是用 pip 安裝的套件：
 music2latent>=0.1.0
-# 如果你是用本地 repo，改用以下其中一行（擇一，並刪除上面那行）：
-# -e ./music2latent
-# music2latent @ git+https://github.com/<your-org-or-user>/music2latent.git
