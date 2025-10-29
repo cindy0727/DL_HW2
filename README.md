@@ -15,15 +15,15 @@ using music2latent
 1. run in Colab https://colab.research.google.com/drive/1KbPPzMvpJ7_WGcW9lXbxJ3Wjgng1ZNOS?usp=sharing
 
 ### file
-##### mtt
+#### mtt
 提供所有生成出來的prompt
 
-##### Prompt_short_gen
+#### Prompt_short_gen
 MTT以short prompt得出來的結果，放入TTM生出來的音樂
 
-##### Prompt_normal_gen
+#### Prompt_normal_gen
 MTT以normal prompt得出來的結果，放入TTM生出來的音樂
 
-##### Prompt_short_gen
-MTT以normal prompt得出來的結果，放入TTM生出來的音樂
+#### Prompt_detail_gen
+MTT以detail prompt得出來的結果，放入TTM生出來的音樂
  
