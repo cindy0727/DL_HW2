@@ -28,7 +28,7 @@ using music2latent
 4. python audiobox.py  生成要檢測的音樂路徑.jsonl檔
 5. CUDA_VISIBLE_DEVICES="" audio-aes "audio_paths.jsonl" --batch-size 4 > "output.jsonl" --ckpt "checkpoint.pt路徑"
 
-### File
+### Folder
 #### mtt
 提供所有生成出來的prompt
 
